@@ -1,3 +1,3 @@
 # blockchain
 
-describes operations in blockchain.
+describes operations in blockchain!
